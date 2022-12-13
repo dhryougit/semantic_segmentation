@@ -4,7 +4,5 @@ jupyter-dojo==0.3.2
 matplotlib==3.2.1
 numpy==1.21.0
 pillow==8.3.2
-torch==1.4.0
 torchsummary==1.5.1
-torchvision==0.4.0
 tqdm==4.46.0

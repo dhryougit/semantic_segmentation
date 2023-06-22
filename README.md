@@ -5,7 +5,7 @@
 Create a new python virtual environment and install the packages specified in ```requirements.txt```:
 
 ```
-$> git clone https://github.com/postBG/segmentation.pytorch.git
+$> !git clone https://github.com/dhryougit/semantic_segmentation.git
 $> mv segmentation.pytorch
 $> pip install -r requirements.txt
 ```
